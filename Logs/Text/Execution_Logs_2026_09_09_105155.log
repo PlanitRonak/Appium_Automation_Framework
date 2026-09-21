@@ -1,0 +1,10 @@
+2026-09-09 10:51:55 INFO  TestBase:51 - Running Tests On Android Platform.
+2026-09-09 10:52:17 INFO  TestBase:89 - Starting Android Driver.
+2026-09-09 10:52:23 INFO  WhereIsMyTrainPageTests:47 - Running Step: verify_Home_Screen_Launched()
+2026-09-09 10:52:23 INFO  MainPage:28 - Verifying if all elements are present in home.
+2026-09-09 10:52:27 INFO  ReusableFunctions:135 - By.xpath: //android.widget.Button[@text="Dream Cruise Logo"]: element with class property displayed.
+2026-09-09 10:52:27 INFO  MainPage:31 - All Main Page Elements Displayed.
+2026-09-09 10:52:33 INFO  WhereIsMyTrainPageTests:54 - Running Step: verify_Home_Screen_Launched()
+2026-09-09 10:52:33 INFO  WhereIsMyTrainPageTests:55 - Verifying Sign In Button is Disabled or not.
+2026-09-09 10:52:33 INFO  MainPage:46 - Verify Sign in Button is Disabled or Not
+2026-09-09 10:52:44 INFO  ReusableFunctions:391 - Saving screenshot to failed repo: C:\Users\ryadav\OneDrive - Planit Test Management Solutions Pty Ltd\Desktop\AppiumJavaHybridFramework\Screenshots\DemoApp20260909105243.png

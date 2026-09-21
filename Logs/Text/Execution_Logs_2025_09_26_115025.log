@@ -1,0 +1,31 @@
+2025-09-26 11:50:26 INFO  TestBase:52 - Running Tests On Android Platform.
+2025-09-26 11:50:39 INFO  TestBase:88 - Starting Android Driver.
+2025-09-26 11:50:42 INFO  MainPageTests:55 - Running Step: verify_all_main_page_elements_are_present()
+2025-09-26 11:50:42 INFO  MainPage:33 - Verifying if all elements are present in home.
+2025-09-26 11:50:43 INFO  ReusableFunctions:135 - By.xpath: //android.widget.Button[@content-desc='buttonTestCD']: element with class property displayed.
+2025-09-26 11:50:44 INFO  ReusableFunctions:135 - By.xpath: //android.widget.ImageButton[@content-desc='buttonStartWebviewCD']: element with class property displayed.
+2025-09-26 11:50:44 INFO  ReusableFunctions:135 - By.xpath: //android.widget.ImageButton[@content-desc='startUserRegistrationCD']: element with class property displayed.
+2025-09-26 11:50:44 INFO  ReusableFunctions:135 - By.xpath: //android.widget.EditText[@content-desc='my_text_fieldCD']: element with class property displayed.
+2025-09-26 11:50:44 INFO  ReusableFunctions:135 - By.xpath: //android.widget.Button[@content-desc='waitingButtonTestCD']: element with class property displayed.
+2025-09-26 11:50:44 INFO  ReusableFunctions:135 - By.xpath: //android.widget.Button[@content-desc='visibleButtonTestCD']: element with class property displayed.
+2025-09-26 11:50:44 INFO  ReusableFunctions:135 - By.xpath: //android.widget.Button[@content-desc='showToastButtonCD']: element with class property displayed.
+2025-09-26 11:50:44 INFO  ReusableFunctions:135 - By.xpath: //android.widget.Button[@content-desc='showPopupWindowButtonCD']: element with class property displayed.
+2025-09-26 11:50:44 INFO  ReusableFunctions:135 - By.xpath: //android.widget.Button[@content-desc='exceptionTestButtonCD']: element with class property displayed.
+2025-09-26 11:50:44 INFO  ReusableFunctions:135 - By.xpath: //android.widget.EditText[@resource-id='io.selendroid.testapp:id/exceptionTestField']: element with class property displayed.
+2025-09-26 11:50:44 INFO  ReusableFunctions:135 - By.xpath: //android.widget.Button[@resource-id='io.selendroid.testapp:id/topLevelElementTest']: element with class property displayed.
+2025-09-26 11:50:44 INFO  ReusableFunctions:135 - By.xpath: //android.widget.CheckBox[@resource-id='io.selendroid.testapp:id/input_adds_check_box']: element with class property displayed.
+2025-09-26 11:50:44 INFO  MainPage:51 - All Main Page Elements Displayed.
+2025-09-26 11:50:50 INFO  MainPageTests:65 - Running Step: verifyToastMessage()
+2025-09-26 11:50:50 INFO  MainPage:68 - Locating the toast button
+2025-09-26 11:50:52 INFO  ReusableFunctions:242 - Clicking on element: By.xpath: //android.widget.Button[@content-desc='showToastButtonCD']
+2025-09-26 11:50:52 INFO  MainPage:71 - Clicked on the toast button
+2025-09-26 11:50:52 INFO  MainPage:74 - Trying to get toast message
+2025-09-26 11:50:52 INFO  ReusableFunctions:344 - Text extracted from toast : Hello selendroid toast!
+2025-09-26 11:50:52 INFO  MainPage:76 - text from toast isHello selendroid toast!
+2025-09-26 11:50:52 INFO  ReusableFunctions:407 - Actual Text From Application Web UI --> :: Hello selendroid toast!
+2025-09-26 11:50:52 INFO  ReusableFunctions:408 - Expected Text From Application Web UI --> :: Hello selendroid toast!
+2025-09-26 11:50:52 INFO  ReusableFunctions:411 - ### VERIFICATION TEXT MATCHED !!!
+2025-09-26 11:50:58 INFO  MainPageTests:76 - Running step: beginRegistration()
+2025-09-26 11:50:58 INFO  MainPage:93 - Locating the register button.
+2025-09-26 11:51:00 INFO  ReusableFunctions:242 - Clicking on element: By.xpath: //android.widget.ImageButton[@content-desc='startUserRegistrationCD']
+2025-09-26 11:51:00 INFO  MainPage:97 - Clicked on register button

@@ -1,0 +1,9 @@
+2026-01-28 15:32:14 INFO  TestBase:52 - Running Tests On Android Platform.
+2026-01-28 15:32:31 INFO  TestBase:89 - Starting Android Driver.
+2026-01-28 15:32:35 INFO  WhereIsMyTrainPageTests:51 - Running Step: verify_all_home_page_elements_are_present()
+2026-01-28 15:32:35 INFO  MainPage:18 - Verifying if all elements are present in home.
+2026-01-28 15:32:55 ERROR ReusableFunctions:48 - Exception Occurred While Locating The Element: Expected condition failed: waiting for presence of element located by: By.xpath: //android.widget.TextView[@text='Where is my Train'] (tried for 20 second(s) with 500 milliseconds interval)
+2026-01-28 15:32:55 ERROR ReusableFunctions:137 - By.xpath: //android.widget.TextView[@text='Where is my Train']: element with class property isn't displayed.
+2026-01-28 15:32:55 ERROR MainPage:28 - Main Page Elements Not Displayed.
+2026-01-28 15:32:55 ERROR WhereIsMyTrainPageTests:53 - Element not present on the page.
+2026-01-28 15:32:56 INFO  ReusableFunctions:391 - Saving screenshot to failed repo: C:\Users\ryadav\OneDrive - Planit Test Management Solutions Pty Ltd\Desktop\AppiumJavaHybridFramework\Screenshots\DemoApp20260128033255.png

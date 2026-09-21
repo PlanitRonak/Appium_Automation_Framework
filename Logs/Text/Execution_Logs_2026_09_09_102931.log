@@ -1,0 +1,17 @@
+2026-09-09 10:29:32 INFO  TestBase:51 - Running Tests On Android Platform.
+2026-09-09 10:29:55 INFO  TestBase:89 - Starting Android Driver.
+2026-09-09 10:30:01 INFO  WhereIsMyTrainPageTests:47 - Running Step: verify_Home_Screen_Launched()
+2026-09-09 10:30:01 INFO  MainPage:26 - Verifying if all elements are present in home.
+2026-09-09 10:30:24 ERROR ReusableFunctions:84 - Exception Occurred While Locating The Element: Expected condition failed: waiting for visibility of element found by By.xpath: //android.widget.Button[@text="Dream Cruise Logo"], but... org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters..
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: C:\Users\ryadav\OneDrive - ..., appium:appActivity: com.stardreamcruises.app.Ma..., appium:appPackage: com.stardreamcruises.app, appium:autoGrantPermissions: true, appium:automationName: uiautomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ryadav\OneDrive - ..., appActivity: com.stardreamcruises.app.Ma..., appPackage: com.stardreamcruises.app, autoGrantPermissions: true, automationName: uiautomator2, deviceName: RMX2151, ignoreHiddenApiPolicyError: true, noReset: true, platformName: ANDROID, platformVersion: 12, udid: 7X85NJYDMRLJAYZH}, appium:deviceApiLevel: 31, appium:deviceManufacturer: realme, appium:deviceModel: RMX2151, appium:deviceName: 7X85NJYDMRLJAYZH, appium:deviceScreenDensity: 480, appium:deviceScreenSize: 1080x2400, appium:deviceUDID: 7X85NJYDMRLJAYZH, appium:ignoreHiddenApiPolicyError: true, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:noReset: true, appium:pixelRatio: 3, appium:platformVersion: 12, appium:statBarHeight: 107, appium:takesScreenshot: true, appium:udid: 7X85NJYDMRLJAYZH, appium:viewportRect: {height: 2054, left: 0, top: 107, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 01e567e3-9408-41e3-8fb8-a6604886deab
+2026-09-09 10:30:24 ERROR MainPage:35 - Main Page Elements Not Displayed.
+2026-09-09 10:30:24 ERROR WhereIsMyTrainPageTests:49 - Element not present on the page.
+2026-09-09 10:30:26 INFO  ReusableFunctions:391 - Saving screenshot to failed repo: C:\Users\ryadav\OneDrive - Planit Test Management Solutions Pty Ltd\Desktop\AppiumJavaHybridFramework\Screenshots\DemoApp20260909103024.png
+2026-09-09 10:30:30 INFO  WhereIsMyTrainPageTests:57 - Running Step: verify_Home_Screen_Launched()
+2026-09-09 10:30:30 INFO  MainPage:47 - Verify Sign in Button is Disabled or Not
+2026-09-09 10:30:40 INFO  MainPage:53 - Sign In Button is Disabled

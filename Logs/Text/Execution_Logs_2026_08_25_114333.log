@@ -1,0 +1,15 @@
+2026-08-25 11:43:33 INFO  TestBase:51 - Running Tests On Android Platform.
+2026-08-25 11:43:57 INFO  TestBase:88 - Starting Android Driver.
+2026-08-25 11:44:03 INFO  WhereIsMyTrainPageTests:51 - Running Step: verify_all_home_page_elements_are_present()
+2026-08-25 11:44:03 INFO  MainPage:18 - Verifying if all elements are present in home.
+2026-08-25 11:44:27 ERROR ReusableFunctions:48 - Exception Occurred While Locating The Element: Expected condition failed: waiting for presence of element found by By.xpath: //android.widget.TextView[@text='Where is my Train']
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: C:\Users\ryadav\OneDrive - ..., appium:appActivity: com.whereismytrain.view.act..., appium:appPackage: com.whereismytrain.android, appium:autoGrantPermissions: true, appium:automationName: uiautomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\ryadav\OneDrive - ..., appActivity: com.whereismytrain.view.act..., appPackage: com.whereismytrain.android, autoGrantPermissions: true, automationName: uiautomator2, deviceName: RMX2151, ignoreHiddenApiPolicyError: true, noReset: true, platformName: ANDROID, platformVersion: 12, udid: 7X85NJYDMRLJAYZH}, appium:deviceApiLevel: 31, appium:deviceManufacturer: realme, appium:deviceModel: RMX2151, appium:deviceName: 7X85NJYDMRLJAYZH, appium:deviceScreenDensity: 480, appium:deviceScreenSize: 1080x2400, appium:deviceUDID: 7X85NJYDMRLJAYZH, appium:ignoreHiddenApiPolicyError: true, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:noReset: true, appium:pixelRatio: 3, appium:platformVersion: 12, appium:statBarHeight: 107, appium:takesScreenshot: true, appium:udid: 7X85NJYDMRLJAYZH, appium:viewportRect: {height: 2054, left: 0, top: 107, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 6954a231-d49f-4ef7-8dc6-8a58937e4668
+2026-08-25 11:44:27 ERROR ReusableFunctions:137 - By.xpath: //android.widget.TextView[@text='Where is my Train']: element with class property isn't displayed.
+2026-08-25 11:44:27 ERROR MainPage:29 - Main Page Elements Not Displayed.
+2026-08-25 11:44:27 ERROR WhereIsMyTrainPageTests:53 - Element not present on the page.
+2026-08-25 11:44:28 INFO  ReusableFunctions:391 - Saving screenshot to failed repo: C:\Users\ryadav\OneDrive - Planit Test Management Solutions Pty Ltd\Desktop\AppiumJavaHybridFramework\Screenshots\DemoApp20260825114427.png

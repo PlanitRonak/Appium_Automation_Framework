@@ -1,0 +1,6 @@
+2025-10-01 11:56:32 INFO  TestBase:52 - Running Tests On Android Platform.
+2025-10-01 11:56:47 INFO  TestBase:88 - Starting Android Driver.
+2025-10-01 11:56:50 INFO  WhereIsMyTrainPageTests:52 - Running Step: verify_all_home_page_elements_are_present()
+2025-10-01 11:56:50 INFO  MainPage:18 - Verifying if all elements are present in home.
+2025-10-01 11:56:52 INFO  ReusableFunctions:135 - By.xpath: //android.widget.TextView[@text='Where is my Train']: element with class property displayed.
+2025-10-01 11:56:52 INFO  MainPage:25 - All Main Page Elements Displayed.

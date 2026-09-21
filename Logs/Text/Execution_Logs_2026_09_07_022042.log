@@ -1,0 +1,6 @@
+2026-09-07 14:20:42 INFO  TestBase:51 - Running Tests On Android Platform.
+2026-09-07 14:21:06 INFO  TestBase:88 - Starting Android Driver.
+2026-09-07 14:21:12 INFO  WhereIsMyTrainPageTests:64 - Running Step: Checking the Framework()
+2026-09-07 14:21:25 INFO  WhereIsMyTrainPageTests:53 - Running Step: verify_all_home_page_elements_are_present()
+2026-09-07 14:21:25 INFO  MainPage:19 - Verifying if all elements are present in home.
+2026-09-07 14:21:27 INFO  MainPage:22 - All Main Page Elements Displayed.

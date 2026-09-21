@@ -1,0 +1,9 @@
+2026-09-08 11:05:49 INFO  TestBase:51 - Running Tests On Android Platform.
+2026-09-08 11:06:08 INFO  TestBase:89 - Starting Android Driver.
+2026-09-08 11:06:12 INFO  WhereIsMyTrainPageTests:47 - Running Step: verify_Home_Screen_Launched()
+2026-09-08 11:06:12 INFO  MainPage:26 - Verifying if all elements are present in home.
+2026-09-08 11:06:16 INFO  ReusableFunctions:135 - By.xpath: //android.widget.Button[@text="Dream Cruise Logo"]: element with class property displayed.
+2026-09-08 11:06:16 INFO  MainPage:32 - All Main Page Elements Displayed.
+2026-09-08 11:06:21 INFO  WhereIsMyTrainPageTests:57 - Running Step: verify_Home_Screen_Launched()
+2026-09-08 11:06:21 INFO  MainPage:47 - Verify Sign in Button is Disabled or Not
+2026-09-08 11:06:32 INFO  MainPage:53 - Sign In Button is Disabled
